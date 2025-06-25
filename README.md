@@ -43,17 +43,21 @@ I love building full-stack applications using modern technologies like React, No
 
 ### 📌 Pinned Repositories
 
-#### [Freelance Task Marketplace](https://github.com/Firoz800528/freelance-task-marketplace)  
+#### [KnowShare platform](https://knowledge-sharing-platfo-44028.web.app)  
 A MERN stack freelance marketplace where clients post tasks and freelancers place bids.  
 **Tech:** React, Node.js, Express, MongoDB, Firebase  
 **Live:** [https://freelance-task.web.app](https://freelance-task.web.app)
 
 ---
 
-#### [Tourism Website](https://github.com/Firoz800528/tourism-website)  
+#### [Freelance Task Website](https://freelance-task-46d26.web.app)  
 A responsive tourism website built with React and Tailwind CSS.  
 **Tech:** React, Tailwind CSS  
 **Live:** [https://tourism-site.example.com](https://tourism-site.example.com)
+
+---
+
+#### [Job Track website]([https://github.com/Firoz800528/portfolio](https://jobtrack-83acf.web.app/)) 
 
 ---
 
