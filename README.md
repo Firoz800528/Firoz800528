@@ -10,7 +10,7 @@
 ---
 
 ### 📍 Location & Contact  
-Dhaka, Bangladesh  
+Dinajpur, Rangpur, Bangladesh 
 📧 firozzaman800528@gmail.com
 
 ---
