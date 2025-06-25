@@ -57,7 +57,7 @@ A responsive tourism website built with React and Tailwind CSS.
 
 ---
 
-#### [Job Track website]([https://github.com/Firoz800528/portfolio](https://jobtrack-83acf.web.app/)) 
+#### [Job Track website]([https://github.com/Firoz800528/portfolio](https://jobtrack-83acf.web.app/)
 
 ---
 
