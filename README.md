@@ -43,28 +43,36 @@ I love building full-stack applications using modern technologies like React, No
 
 ### 📌 Pinned Repositories
 
-#### [KnowShare platform](https://knowledge-sharing-platfo-44028.web.app)  
-A MERN stack freelance marketplace where clients post tasks and freelancers place bids.  
-**Tech:** React, Node.js, Express, MongoDB, Firebase  
-**Live:** [https://freelance-task.web.app](https://freelance-task.web.app)
+#### 🔗 [KnowShare Platform](https://knowledge-sharing-platfo-44028.web.app)  
+A full-featured MERN stack freelance marketplace where clients can post tasks and freelancers can bid on them.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase  
+**Live Demo:** [Visit Site](https://knowledge-sharing-platfo-44028.web.app)
 
 ---
 
-#### [Freelance Task Website](https://freelance-task-46d26.web.app)  
-A responsive tourism website built with React and Tailwind CSS.  
-**Tech:** React, Tailwind CSS  
-**Live:** [https://tourism-site.example.com](https://tourism-site.example.com)
+#### 🔗 [Freelance Task Website](https://freelance-task-46d26.web.app)  
+A responsive web platform designed for managing freelance tasks, developed with a mobile-first approach.  
+**Tech Stack:** React, Tailwind CSS  
+**Live Demo:** [Visit Site](https://freelance-task-46d26.web.app)
 
 ---
 
-#### [Job Track website]([https://github.com/Firoz800528/portfolio](https://jobtrack-83acf.web.app/)
+#### 🔗 [JobTrack Website](https://jobtrack-83acf.web.app)  
+A job tracking application that allows users to register, log in, and manage applied jobs with real-time features.  
+**Tech Stack:** React, Firebase, Tailwind CSS  
+**Live Demo:** [Visit Site](https://jobtrack-83acf.web.app)
 
 ---
 
-#### [Portfolio](https://github.com/Firoz800528/portfolio)  
-Personal portfolio website showcasing projects and skills.  
-**Tech:** React, CSS  
-**Live:** [https://firoz-portfolio.com](https://firoz-portfolio.com)
+#### 🔗 [Portfolio](https://github.com/Firoz800528/portfolio)  
+My personal portfolio website showcasing my skills, featured projects, and contact information.  
+**Tech Stack:** React, CSS  
+**Live Demo:** [Visit Site](https://firoz-portfolio.com)
+
+---
+
+### 👁️‍🗨️ Visitors  
+![Visitor Count](https://komarev.com/ghpvc/?username=Firoz800528&color=blue)
 
 ---
 
