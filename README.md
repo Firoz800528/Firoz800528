@@ -3,8 +3,9 @@
   <img src="https://i.imgur.com/QkLX6xO.jpeg" alt="Banner Image" width="100%" />
 </p>
 
-# Hi, I'm Firozzaman 👋  
-## Full Stack Developer | MERN Stack Enthusiast
+# Hi, I'm Md. Firozzaman 👋  
+## MERN Stack Developer | JavaScript Lover | Backend Explorer
+
 
 ---
 
@@ -15,15 +16,13 @@ Dhaka, Bangladesh
 ---
 
 ### 👨‍💻 About Me  
-I am a passionate Full Stack Developer specializing in building scalable and efficient web applications using modern technologies.  
-I enjoy working with JavaScript frameworks and libraries to create seamless user experiences.
+I’m a dedicated MERN Stack Developer based in Bangladesh 🇧🇩.  
+I love building full-stack applications using modern technologies like React, Node.js, and MongoDB.
 
----
-
-### 🚀 Current Activities  
-- Exploring Next.js for SSR and static site generation  
-- Developing a Freelance Task Marketplace platform  
-- Learning advanced MongoDB optimization techniques  
+🌱 Currently:
+- Exploring Next.js and TypeScript  
+- Building a Freelance Task Marketplace  
+- Learning backend optimization for MongoDB
 
 ---
 
