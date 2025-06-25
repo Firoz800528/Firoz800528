@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/QkLX6xO.jpeg" alt="Banner Image" width="80%" />
+  <img src="https://i.imgur.com/QkLX6xO.jpeg" alt="Banner Image" width="90%" height="70%" />
 </p>
 
 # Hi, I'm Firozzaman 👋  
