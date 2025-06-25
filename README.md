@@ -38,9 +38,7 @@ I enjoy working with JavaScript frameworks and libraries to create seamless user
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firoz800528&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz800528&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Firoz800528&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firoz800528&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz800528&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Firoz800528&theme=radical)
 
 ---
 
