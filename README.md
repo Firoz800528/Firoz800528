@@ -38,7 +38,8 @@ I love building full-stack applications using modern technologies like React, No
 ---
 
 ### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz800528&layout=compact&theme=radical) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firoz800528&show_icons=true&theme=radical) 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Firoz800528)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz800528&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firoz800528&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Firoz800528&theme=radical)
+
 
