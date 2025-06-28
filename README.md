@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I'm Md. Firozzaman 👋  
-## MERN Stack Developer | JavaScript Lover | Backend Explorer
+## Frontend Developer | JavaScript Lover | Backend Explorer
 
 
 ---
