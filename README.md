@@ -18,7 +18,7 @@ Dinajpur, Rangpur, Bangladesh
 
 ### 👨‍💻 About Me  
 I’m a dedicated Frontend Developer based in Bangladesh 🇧🇩.  
-I love building Frontend applications using modern technologies like React, Node.js, and MongoDB.
+I love building Full-Stack applications using modern technologies like React, Node.js, and MongoDB.
 
 🌱 Currently:
 - Exploring Next.js and TypeScript  
