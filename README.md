@@ -17,8 +17,8 @@ Dinajpur, Rangpur, Bangladesh
 ---
 
 ### 👨‍💻 About Me  
-I’m a dedicated MERN Stack Developer based in Bangladesh 🇧🇩.  
-I love building full-stack applications using modern technologies like React, Node.js, and MongoDB.
+I’m a dedicated Frontend Developer based in Bangladesh 🇧🇩.  
+I love building Frontend applications using modern technologies like React, Node.js, and MongoDB.
 
 🌱 Currently:
 - Exploring Next.js and TypeScript  
