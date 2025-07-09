@@ -33,7 +33,7 @@ I love building Full-Stack applications using modern technologies like React, No
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/firoz-zaman-357423361/)  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/phi.ro.ja.694863)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:firozzaman800528@gmail.com)  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/Firoz800528)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-firozzaman/)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:firozzaman800528@gmail.com)  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/Firoz800528)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox)](https://firozzaman-portfolio.surge.sh/)
 
 ---
 
