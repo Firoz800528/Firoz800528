@@ -12,7 +12,8 @@
 ### 📍 Location & Contact  
 Dinajpur, Rangpur, Bangladesh
 
-📧 firozzaman800528@gmail.com
+📧 firoz800528@gmail.com
+📞 +8801780-887716
 
 ---
 
